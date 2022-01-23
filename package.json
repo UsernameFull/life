@@ -1,0 +1,26 @@
+{
+  "name": "life",
+  "version": "1.0.0",
+  "description": "====",
+  "main": "main.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "vite": "vite",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsernameFull/life.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/UsernameFull/life/issues"
+  },
+  "homepage": "https://github.com/UsernameFull/life#readme",
+  "devDependencies": {
+    "vite": "^2.7.13"
+  }
+}
