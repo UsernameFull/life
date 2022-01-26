@@ -8,6 +8,7 @@
   },
   "scripts": {
     "vite": "vite",
+    "build-wasm": "wasm-pack build ./wasm-life --target web",
     "test": "node test.js"
   },
   "repository": {
